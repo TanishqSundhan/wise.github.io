@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://wisedba.com/</title>
+  <link>http://wisedba.com/</link>
+
+<item>
+     <link>https://wisedba.com/</link>
+     <title>WiseDBA - Database | Automation | Administration</title>
+     <description>WiseDBA is a group of Database Professionals with specialisation in Administration and Automation...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://wisedba.com/index.html</link>
+     <title>WiseDBA - Database | Automation | Administration</title>
+     <description>WiseDBA is a group of Database Professionals with specialisation in Administration and Automation...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://wisedba.com/about.html</link>
+     <title>About WiseDBA - Database | Automation | Administration</title>
+     <description>Get to know WiseDBA Database Professionals with specialisation in Administration and Automation...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://wisedba.com/services.html</link>
+     <title> Services from WiseDBA - Database | Automation | Administration</title>
+     <description>Services provided by WiseDBA Database Professionals with specialisation in Administration and Automation...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://wisedba.com/contact.html</link>
+     <title>Contact WiseDBA - Database | Automation | Administration</title>
+     <description>Contact the WiseDBA Database Professionals with specialisation in Administration and Automation and get your business managed by...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://wisedba.com/legal/term-of-use.html</link>
+     <title>Terms of Use - WiseDBA - Database | Automation | Administration</title>
+     <description>WiseDBA is a group of Database Professionals with specialisation in Administration and Automation...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://wisedba.com/legal/privacy-policy.html</link>
+     <title>Privacy Policy of WiseDBA - Database | Automation | Administration</title>
+     <description>WiseDBA is a group of Database Professionals with specialisation in Administration and Automation...</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
