@@ -1,1 +1,8 @@
 ErrorDocument 404 https://wisedba.com/404.html
+
+#remove html file extension https://wisedba.com/index.html
+# to https://wisedba.com/index
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.html [NC, L]
