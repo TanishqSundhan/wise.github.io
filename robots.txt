@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://www.wisedba.com/en-in/sitemap.xml
