@@ -2,6 +2,6 @@ ErrorDocument 404 https://wisedba.com/404.html
 
 Options +FollowSymlinks
 RewriteEngine On
-RewriteCond %{HTTP_HOST} ^domain.co.uk [NC]
-RewriteRule ^(.*)$ http://www.domain.co.uk/$1 [R=301,NC]
-RewriteRule ^index.html$ http://www.domain.co.uk/ [R=301,L]
+RewriteCond %{HTTP_HOST} ^wisedba.com [NC]
+RewriteRule ^(.*)$ http://www.wisedba.com/$1 [R=301,NC]
+RewriteRule ^index.html$ http://www.wisedba.com/ [R=301,L]
